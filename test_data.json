@@ -1,0 +1,109 @@
+{
+  "preset_users": [
+    {
+      "username": "14077179",
+      "password": "123456",
+      "background": "international_student",
+      "school": "School of Science and Technology",
+      "academic_stage": "undergraduate",
+      "skills": ["Python Programming", "Machine Learning", "Algorithm Design"],
+      "languages": ["English"],
+      "published_posts": [
+        {
+          "course": "COMP 2090",
+          "title": "Machine Learning Project - Need Teammate for Data Analysis",
+          "description": "Developing a deep learning-based image recognition system. Need assistance with data processing and model tuning.",
+          "required_skills": ["Python Programming", "Data Analysis", "Machine Learning Fundamentals"],
+          "required_languages": ["Mandarin", "English"],
+          "remaining_slots": 2,
+          "deadline": "2025-04-12",
+          "special_requirements": "Prefer responsible teammates who can meet weekly for discussion.",
+          "publish_time": "2025-02-20",
+          "is_active": true,
+          "contact_email": "1407717@live.hkmu.edu.hk"
+        }
+      ]
+    },
+    {
+      "username": "14098986",
+      "password": "234567",
+      "background": "local_student",
+      "school": "School of Business",
+      "academic_stage": "undergraduate",
+      "skills": ["Business Analysis", "PPT Presentation", "Market Research", "Financial Statement"],
+      "languages": ["Cantonese", "English"],
+      "published_posts": [
+        {
+          "course": "BUSI 2001",
+          "title": "Business Data Analysis Project - Looking for Technical Partner",
+          "description": "Analyzing local retail market data. Need technical help with data processing and visualization.",
+          "required_skills": ["Data Analysis", "Python Programming", "Report Writing"],
+          "required_languages": ["Cantonese", "English"],
+          "remaining_slots": 3,
+          "deadline": "2025-04-20",
+          "special_requirements": "Prefer students with Python basics.",
+          "publish_time": "2025-02-21",
+          "is_active": true,
+          "contact_email": "1409898@live.hkmu.edu.hk"
+        }
+      ]
+    },
+    {
+      "username": "14125968",
+      "password": "345678",
+      "background": "mainland_student",
+      "school": "School of Science and Technology",
+      "academic_stage": "undergraduate",
+      "skills": ["Java Development", "UI Design", "Database Management", "React"],
+      "languages": ["Mandarin","English"],
+      "published_posts": [
+        {
+          "course": "COMP 2090",
+          "title": "Student Management System Development - Frontend + Backend",
+          "description": "Developing a complete student information management system, requiring frontend and backend collaboration.",
+          "required_skills": ["Java Development", "UI Design", "Database Management", "Documentation"],
+          "required_languages": ["English"],
+          "remaining_slots": 2,
+          "deadline": "2025-04-12",
+          "special_requirements": "None",
+          "publish_time": "2025-02-19",
+          "is_active": true,
+          "contact_email": "1412596@live.hkmu.edu.hk"
+        }
+      ]
+    },
+    {
+      "username": "12877060",
+      "password": "456789",
+      "background": "local_student",
+      "school": "School of Humanities and Social Sciences",
+      "academic_stage": "postgraduate",
+      "skills": ["Academic Writing", "Qualitative Research", "SPSS Analysis", "Video Editing"],
+      "languages": ["Cantonese", "English"],
+      "published_posts": [
+        {
+          "course": "SOSC 3001",
+          "title": "Social Media Influence Research - Need Quantitative Analysis Helper",
+          "description": "Researching social media usage habits in Hong Kong, requiring statistical analysis and technical support.",
+          "required_skills": ["Data Analysis", "SPSS", "Academic Writing", "Python Programming"],
+          "required_languages": ["Mandarin", "English"],
+          "remaining_slots": 2,
+          "deadline": "2025-04-30",
+          "special_requirements": "Prefer students with statistics or data analysis background.",
+          "publish_time": "2025-02-22",
+          "is_active": true,
+          "contact_email": "1287706@live.hkmu.edu.hk"
+        }
+      ]
+    }
+  ],
+  "test_user": {
+    "username": "test_user",
+    "password": "test12",
+    "background": "mainland_student",
+    "school": "School of Science and Technology",
+    "academic_stage": "undergraduate",
+    "skills": ["Python Programming", "Documentation", "Data Analysis", "Git Version Control"],
+    "languages": ["Mandarin", "English"]
+  }
+}
