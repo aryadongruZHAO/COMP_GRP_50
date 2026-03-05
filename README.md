@@ -7,7 +7,7 @@ COMP2090SEF GROUP PROJECT FROM GRP_50
 - [The structure of project](#the-structure-of-project)
 - [Features](#features)
 - [Instillation and Execute](#instillation-and-execute)
--[Implementation notes](#implementation-notes)
+- [Implementation notes](#implementation-notes)
 - [Contact](#contact)
   
 ## Members of group and Labour of division
@@ -84,6 +84,20 @@ Ensure that `test_data.json` and `main.py` are in matching paths (refer to the d
   ```bash
   python3 main.py
   ```
+
+#### 4.Input data
+We have already set up a dedicated test user. So when you access the Login/Register page, you can simply enter test_user​ in the username field and test12​ in the password field. After clicking the login button, you will successfully enter the program.
+
+ username:
+ ```
+ test_user
+ ```
+ password:
+ ```
+ test12
+ ```
+
+ 
 
 ## Implementation notes
 
