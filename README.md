@@ -11,7 +11,7 @@ COMP2090SEF GROUP PROJECT FROM GRP_50
 - [Contact](#contact)
   
 ## Members of group and Labour of division
-Leader: ZHAO DongRu 
+Leader: ZHAO DongRu 14077179
 - Project Framework
 - Write main.py
 - Write README.md
