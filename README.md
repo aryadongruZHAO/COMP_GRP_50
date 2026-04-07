@@ -18,7 +18,7 @@ Leader: ZHAO DongRu 14077179
 - Write test_data.json
 - Design and write OOP_models.py
 - Design matching.py
-
+- Revise and review two reports
 
 members: 
 1. JIANG Jun 14125968
@@ -26,12 +26,14 @@ members:
 - Write data_manager.py
 - Implement matching.py
 - Assiste in writing test_data.json
+- Write Study Report
 
 
 2. CHUNG ChingWang 12877060 
 - write GUI.py
 - Design and implement OOP_models.py
 - Design matching.py and assiste in its implementation
+- Write Project Report
 
 
 ## Introduction of project
