@@ -110,9 +110,9 @@ The core matching algorithm in matching.pyis implemented based on the standard H
 
 #### 2.Use of AI Programming Assistant
 
--Documentation & Comments: Helping to draft clear, concise module-level and inline comments to improve code maintainability and explain key algorithmic steps.
+- Documentation & Comments: Helping to draft clear, concise module-level and inline comments to improve code maintainability and explain key algorithmic steps.
 
--Code Optimization: Assisting in refining function interfaces and improving the robustness of data validation logic.
+- Code Optimization: Assisting in refining function interfaces and improving the robustness of data validation logic.
 
 ## Contact
 If you have any problems about the group project, please email the leader `s1407717@live.hkmu.edu.hk`.
