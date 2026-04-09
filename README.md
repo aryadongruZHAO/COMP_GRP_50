@@ -6,7 +6,7 @@ COMP2090SEF GROUP PROJECT FROM GRP_50
 - [Introduction of project](#introduction-of-project)
 - [The structure of project](#the-structure-of-project)
 - [Features](#features)
-- [Instillation and Execute](#instillation-and-execute)
+- [Installation and Execute](#instillation-and-execute)
 - [Implementation notes](#implementation-notes)
 - [Contact](#contact)
   
