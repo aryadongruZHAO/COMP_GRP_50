@@ -62,7 +62,7 @@ Advanced Matching:  Integrates the Hungarian Algorithm to achieve optimal one-to
 
 Data Persistence:  Stores user and post data in JSON files.
 
-## Instillation and Execute
+## Installation and Execute
 
 #### 1. Install Dependencies  
 Your project uses `tkinter` and `json`:  
