@@ -14,7 +14,7 @@ COMP2090SEF GROUP PROJECT FROM GRP_50
 Leader: ZHAO DongRu 14077179
 - Project Framework
 - Write main.py
-- Write README.md
+- Write README.md and User_guide.md
 - Write test_data.json
 - Design and write OOP_models.py
 - Design matching.py
