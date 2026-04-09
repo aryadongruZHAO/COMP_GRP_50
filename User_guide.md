@@ -5,32 +5,40 @@ This guide helps you set up, run, and use the StudyMate application — a tool t
 
 ## 1. Prerequisites
 - Python 3.8+ installed on your system.
+
 - Basic familiarity with running Python scripts in a terminal.
 
 ## 2. Installation & Setup
 ### 2.1 Install Dependencies
+
 StudyMate uses two key libraries:
-- tkinter: Python’s built-in GUI library (usually pre-installed).
-- json: Python’s built-in library for JSON data handling (no installation needed).
-If tkinteris missing (e.g., error: No module named 'tkinter'), install it via:
-- **Windows/macOS**:Run in your terminal:
+- `tkinte`: Python’s GUI library (often bundled with Python on Windows/macOS).
+
+- `json`: Python’s built-in library for JSON data handling (no installation needed).
+
+If tkinter is missing (e.g., error: No module named 'tkinter' ), install it using a system-appropriate method:
+
+
+- **Linux (Ubuntu/Debian)**:
   ```bash\
-  pip install tk
+  sudo apt-get install python3-tk
   ```
-- **Linux (Ubuntu/Debian)**： Run:
- ```bash\
- sudo apt-get install python3-tk
- ```
+  
+- **Windows/macOS**： 
+  - Tkinter is usually included with the official Python installer.
+    
+  - If it is missing, reinstall Python from the official source and make sure Tcl/Tk (Tkinter) support is included.
+    
 ### 2.2 Verify tkinter Installation
 To confirm tkinterworks:
-1.Open a terminal (e.g., in VSCode: Ctrl + `` or Terminal → New Terminal)
+1. Open a terminal (e.g., in VSCode: Terminal → New Terminal).
 
-2.Run:
+2. Run:
   ```bash\
   python3 -m tkinter
   ```
 
-3.A test window (showing “This is Tcl/Tk X.X.X”) should appear. If so, tkinteris ready!
+3. A test window (showing “This is Tcl/Tk X.X.X”) should appear. If so, `tkinter` is ready.
 
 ## 3. Running the Application
 1.Open a terminal in the StudyMateproject directory.
@@ -40,26 +48,29 @@ To confirm tkinterworks:
   python3 main.py
   ```
 
-3.A GUI window will launch (powered by gui.pyand tkinter).
+3.A GUI window will launch (powered by `GUI.py` and `tkinter` ).
 
 ## 4.Input Data & Testing
-We provide a **pre-configured test user**​ to help you explore the app:
+
+We provide a pre-configured test user to help you explore the app.
 
 ### 4.1 Test Credentials
 - Username:
   ```bash\
   test_user
   ```
+
 - Password:
   ```bash\
   test12
   ```
 
 ### 4.2 How to Use the Test Account
-1.After launching the app, you’ll see a **Login/Register**​ page.
-2.Enter **test_user** in the `Username` field and **test12** in the `Password` field.
-3.Click “Login” — you’ll be redirected to the main application interface.
+1. After launching the app, you’ll see a Login/Register​ page.
 
+2. Enter `test_user` in the Username field and `test12` in the Password field.
+
+3. Click Login — you’ll be redirected to the main application interface.
 
 ## 5.Using StudyMate (Key Features)
 Once you log in, you will see the StudyMate main page with these options:
@@ -109,4 +120,4 @@ No recommendations shown
 
 ## 8. Support
 
-If you need help, contact your team lead or refer to the project’s `README.md` for additional technical details.
+If you need help, contact me: ZHAO Dong RU `s1407717@live.hkmu.edu.hk`.
