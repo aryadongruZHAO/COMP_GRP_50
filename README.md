@@ -51,7 +51,7 @@ To achieve optimal matching between students and project posts, the system model
 - `GUI.py`               # Tkinter GUI, contains all user interaction interfaces  
 - `test_data.json`       # Pre-configured test data to verify system workflows  
 - `README.md`            # This file
-- `User Guide.md`        # Provide detailed instructions on how to run the program
+- `User_guide.md`        # Provide detailed instructions on how to run the program
 ## Features
 User System:  Supports user registration, login, and personal profile management.
 
